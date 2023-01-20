@@ -11,8 +11,12 @@ Prerequisites 📋
 Running the Application locally 💻
 
    -Clone the repository: git clone https://github.com/Terryohana/price-index.git
+   
+   -Extract the files 
+   
+   -cd to the github directory
   
-   -cd server 
+   -cd to the server 
     
    -npm run dev
 
