@@ -1,6 +1,7 @@
-Price Index 💰📈
+# Price Index 💰📈
 
 This is a webapp app built with React.js and Node.js Express. The app allows users to view latest sugar prices in different countries.
+
 Prerequisites 📋
 
    -Node.js and npm 
@@ -8,7 +9,7 @@ Prerequisites 📋
    -Express.js Server
    -ReactJs
 
-Running the Application locally 💻
+## Running the Application locally 💻
 
    -Clone the repository: git clone https://github.com/Terryohana/PriceIndex/
    
@@ -19,7 +20,9 @@ Running the Application locally 💻
    -cd to the server 
     
    -npm run dev
-
+   
+   -The app should run on localhost:5000
+   
  
 
 If you have any issues or questions, feel free to open an issue in this repository.
