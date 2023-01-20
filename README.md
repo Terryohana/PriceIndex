@@ -10,7 +10,7 @@ Prerequisites 📋
 
 Running the Application locally 💻
 
-   -Clone the repository: git clone https://github.com/Terryohana/price-index.git
+   -Clone the repository: git clone https://github.com/Terryohana/PriceIndex/
    
    -Extract the files 
    
